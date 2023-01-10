@@ -12,4 +12,6 @@ The Individual project that was undertaken by me during my Master's degree was: 
 
 You are more than welcome to take your time looking at these projects and analysing my practical efficiency. I will more than happy to provide furthur in depth details of the projects in the future.
 
+Once you have opened this page through the link provided, and then when you open each folder, the files inside the folder might not be visible due to size issue, but you can download the file and view the contents.
+
 Thank You.
