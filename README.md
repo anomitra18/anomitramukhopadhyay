@@ -10,8 +10,8 @@ The group project that was undertaken be me during my Master's degree was: ‘Ro
 
 The Individual project that was undertaken by me during my Master's degree was: Hybrid-Framework for Multi-Robot Collision Avoidance’. The thesis aims to identify how robot path planning and obstacle avoidance in a dynamic environment could be made much more optimised and promising using the combination of Machine Learning with already available traditional approaches.
 
-You are more than welcome to take your time looking at these projects and analysing my practical efficiency. I will more than happy to provide furthur in depth details of the projects in the future.
+Once you have opened this page through the link provided, and then when you open each folder, the files inside the folder **might not** be visible due to size issue, so you need click on the download button to download the folder and view the contents.
 
-Once you have opened this page through the link provided, and then when you open each folder, the files inside the folder might not be visible due to size issue, but you can download the file and view the contents.
+You are more than welcome to take your time looking at these projects and analysing my practical efficiency. I will more than happy to provide furthur in depth details of the projects in the future.
 
 Thank You.
