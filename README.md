@@ -18,7 +18,7 @@ The Individual project that was undertaken by me during my Master's degree was: 
 
 *You can view the project's presentation video and supporting files in "MSc Robotics- Individual Thesis" .zip folder*.
 
-Once you have opened this page through the link provided, and then when you open each folder, the files inside the folder **might or might not** be visible due to size issue, if it's **not** visible, you need to click on the download button to download the folder and view the contents. Sorry for this inconvenience caused.
+Once you have opened this page through the link provided, and then when you open each folder of my repository, the files inside the folder **might or might not** be visible due to size issue, if it's **not** visible, you need to click on the download button to download the folder and view the contents. Sorry for this inconvenience caused.
 
 I wish to learn and develop my technical knowledge and also gain work experience by working on different client based projects. I am confident about my work, I am a person who believes in hard work, smart work, patience and perseverance. You are more than welcome to take your time looking at these projects and analysing my practical efficiency. I will more than happy to provide furthur in depth details of the projects in the future.
 
