@@ -24,10 +24,10 @@ Once you have opened this page through the link provided, and then when you open
 
 I wish to learn and develop my technical knowledge and also gain work experience by working on different client based projects. I am confident about my work, I am a person who believes in hard work, smart work, patience and perseverance. You are more than welcome to take your time looking at these projects and analysing my practical efficiency. I will more than happy to provide furthur in depth details of the projects in the future.
 
-Thank You.
-
 **Certificates:**
 
-September 2024: Apart from the inclusion in the MSc Robotics Curriculum at Cranfield University, on Udemy completed an online course on Industrial Robotics ABB using ABB RobotStudio that not only brushed up the knowledge but also learned how to control and program an ABB robot using the Teach Pendant, learned in detail the controller’s functionalities and its use in controlling the robot in both manual and automatic modes. 
+**September 2024:** Apart from the inclusion in the MSc Robotics Curriculum at Cranfield University, on Udemy completed an online course on Industrial Robotics ABB using ABB RobotStudio that not only brushed up the knowledge but also learned how to control and program an ABB robot using the Teach Pendant, learned in detail the controller’s functionalities and its use in controlling the robot in both manual and automatic modes. 
 Certificate no: UC-9786cb47-52de-41c3-8c72-4c81a04183e9
 Certificate url: https://www.udemy.com/certificate/UC-9786cb47-52de-41c3-8c72-4c81a04183e9/
+
+Thank You.
