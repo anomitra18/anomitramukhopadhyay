@@ -27,7 +27,6 @@ I wish to learn and develop my technical knowledge and also gain work experience
 **Certificates:**
 
 **September 2024:** Apart from the inclusion in the MSc Robotics Curriculum at Cranfield University, on Udemy completed an online course on Industrial Robotics ABB using ABB RobotStudio that not only brushed up the knowledge but also learned how to control and program an ABB robot using the Teach Pendant, learned in detail the controller’s functionalities and its use in controlling the robot in both manual and automatic modes.
-Certificate no: UC-9786cb47-52de-41c3-8c72-4c81a04183e9
-Certificate url: https://www.udemy.com/certificate/UC-9786cb47-52de-41c3-8c72-4c81a04183e9/
+Certificate no: UC-9786cb47-52de-41c3-8c72-4c81a04183e9, Certificate url: https://www.udemy.com/certificate/UC-9786cb47-52de-41c3-8c72-4c81a04183e9/
 
 Thank You.
