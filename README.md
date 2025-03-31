@@ -2,7 +2,8 @@ Welcome to my github repository, I am Anomitra Mukhopadhyay, I am an Indian stud
 
 I am enthusiastic about the development of robotic technology in current times with particular focus on industrial robots, which became the reason behind my pursuing a Bachelor’s degree in Mechatronics Engineering and a Master's degree in Robotics. I have obtained practical experience in robotic, electronic systems, simulations and CAD software and potentially carried out research projects in the field of industrial robots. I am a effective communicator with professional efficiency in English. I am Competent in robotics and carrying forward the work and research of potentially developing robots. My Proven strengths include strong work ethic, problem-solving skills and the ability to deliver results on time.
 
-I'm currently employed with Carl Zeiss Microscopy Ltd as a Final Test Engineer. I'm working on different High Resolution Field Emission Scan Electron Microscopes (FE-SEMs) Manufactured, Assembled and Tested by the High Quality Imaging and Advanced Analytical Microscopy section of Carl Zeiss, the pioneer of science in optics and optoelectronics . Final testing of all the High Precision aspects, before it's being delivered to the customer. The skills I've gained on this job role are: Mechanical Testing, Electronic Testing, Electron Optics, Automated Software Testing, High Precision Testing, Automation, Mechatronics. My experience in working with mechatronics and automation systems have helped me to secure this job.
+I'm currently employed with Carl Zeiss Microscopy Ltd as a Final Test Engineer. I'm working on different High Resolution Field Emission Scan Electron Microscopes (FE-SEMs) Manufactured, Assembled and Tested by the High Quality Imaging and Advanced Analytical Microscopy section of Carl Zeiss, the pioneer of science in optics and optoelectronics . Complete expert level Software and Hardware testing of three different ranges of FE-
+SEMs, Sigma, Single and Double Condenser Gemini and CrossBeam Microscopes. Testing the hardware and the Software aspects, finding bugs of released and unreleased software versions. The skills I've gained on this job role are: Mechanical Testing, Electronic Testing, Electron Optics, Automated Software Testing, High Precision Testing, Automation, Mechatronics. My experience in working with mechatronics and automation systems have helped me to secure this job.
 
 I have extensive hands-on industrial technical knowledge and experience that I have gained through different projects in the field of Robotics and Mechatronics both in terms of software and hardware during my 5 years of academic tenure. This repositiory contains my proven technical ability in the field of robotics with the help of these three important academic projects, apart from other small projects that I have done in my 5 years of academic tenure (bachelors and masters degree).
 
@@ -27,6 +28,11 @@ I wish to learn and develop my technical knowledge and also gain work experience
 **Certificates:**
 
 **September 2024:** Apart from the inclusion in the MSc Robotics Curriculum at Cranfield University, on Udemy completed an online course on Industrial Robotics ABB using ABB RobotStudio that not only brushed up the knowledge but also learned how to control and program an ABB robot using the Teach Pendant, learned in detail the controller’s functionalities and its use in controlling the robot in both manual and automatic modes.
-Certificate no: UC-9786cb47-52de-41c3-8c72-4c81a04183e9 , Certificate url: https://www.udemy.com/certificate/UC-9786cb47-52de-41c3-8c72-4c81a04183e9/
+Certificate no: UC-9786cb47-52de-41c3-8c72-4c81a04183e9
+Certificate url: https://www.udemy.com/certificate/UC-9786cb47-52de-41c3-8c72-4c81a04183e9/
+
+**November 2024:** Completed learning PLC IEC 6113-13, all its different standards and aspects in both theory and practical formats. Learned to write PLC programs independently using Programming Languages like Ladder Diagram, Structured Text, Sequential Function Charts and Function blocks through interacting experimental exercises on Codesys Development Environment.
+Certificate no: UC-e3bb00d5-474c-4086-becb-bdf2370d11bc
+Certificate url: http://ude.my/UC-e3bb00d5-474c-4086-becb-bdf2370d11bc
 
 Thank You.
